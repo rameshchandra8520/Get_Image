@@ -1,9 +1,9 @@
-## [Get Image](https://rameshchandrapola.github.io/Get_Image/)
+## [Get Image](https://rameshchandra8520.github.io/Get_Image/)
 It's an Image generator from your search results.
 <br>
-**[Website_link](https://rameshchandrapola.github.io/Get_Image/)**
+**[Website_link](https://rameshchandra8520.github.io/Get_Image/)**
 
-### [Demo](https://rameshchandrapola.github.io/Get_Image/)
+### [Demo](https://rameshchandra8520.github.io/Get_Image/
 ![](https://user-images.githubusercontent.com/76244600/144753825-56dd3529-5017-488f-b0f1-16866ca582ee.png)
 
 ### Features:
